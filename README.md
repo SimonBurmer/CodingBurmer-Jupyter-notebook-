@@ -1,4 +1,4 @@
-# data scientists and machine learning
+# Data science and machine learning
 
 __Sklearn_Iris_Dataset:__   Using different classifier for sklearn to determine which performs the best.
  
