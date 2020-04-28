@@ -1,6 +1,6 @@
 # Data analytics and machine learning
 
-## **Heart_Disease_Dataset_Sklearn_Tensorflow_** ##
+#### **Heart_Disease_Dataset_Sklearn_Tensorflow_** ####
 This is my data analytics for the popular heart disease dataset. In this analytics i tested how different classifier and a keras model perform on different feature engineered datasets.
  
 This is my latest project. So if you are interested in my current skills, take a look at this. - 28.04.2020
